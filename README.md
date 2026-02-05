@@ -1,113 +1,95 @@
-# 📊 Data Jobs Market Analysis Dashboard (Power BI)
+# 📊 Power BI Dashboards Portfolio
 
-## 📌 Project Overview
-This project is an interactive **Power BI dashboard** designed to analyze the **data job market** and uncover key insights related to job roles, salaries, locations, and required skills.  
-The dashboard helps users understand market demand and trends across different data-related positions such as **Data Analyst, Data Scientist, Data Engineer**, and more.
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue)
+![Status](https://img.shields.io/badge/Status-Actively%20Maintained-success)
+![Focus](https://img.shields.io/badge/Focus-Business%20Intelligence-informational)
 
-This project is built as part of my **GitHub data analytics portfolio**, showcasing practical Power BI skills.
+Welcome to my **Power BI Dashboards Portfolio** 👋  
+This repository showcases my **end-to-end journey with Power BI**, starting from foundational reports and progressing toward **advanced, interactive, insight-driven dashboards**.
 
----
-
-## 📂 Dataset
-The dataset used in this project includes information such as:
-- Job titles
-- Salaries
-- Company locations
-- Employment types
-- Experience levels
-- Required skills (if available)
-
-> **Note:** Data cleaning and transformation were performed using **Power Query** inside Power BI.
+The core goal of every project here is simple:  
+> **Turn data into clear, actionable insights that support better decision-making.**
 
 ---
 
-## 📈 Dashboard Features & Insights
-Key insights provided by the dashboard include:
-- Distribution of data job roles in the market  
-- Salary trends by role and experience level  
-- Geographic distribution of job opportunities  
-- Comparison of job types (remote / on-site / hybrid, if available)  
-- Identification of high-demand data roles  
+## 👤 About Me
 
-All visuals are interactive and support filtering for deeper analysis.
+I’m a **data-driven professional** with a strong interest in **Business Intelligence, Data Analytics, and Visualization**.  
+Through hands-on projects, I focus on building dashboards that combine:
+
+- Strong **data modeling**
+- Well-designed **DAX measures**
+- Clean, intuitive **visual storytelling**
+- Real-world **business questions**
+
+This repository reflects both my **technical growth** and my **analytical thinking** using Power BI.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🚀 What This Repository Demonstrates
+
+Across the dashboards in this collection, you’ll find:
+
+- 📈 **Foundational BI Reports**
+- 🔍 **Advanced Interactive Dashboards**
+- 🧠 **Business-Focused Analytics**
+- 🧮 **DAX Measures & KPI Design**
+- 🎨 **Professional Dashboard Layout & UX**
+
+---
+
+## 🛠️ Tools & Technologies
+
 - **Power BI Desktop**
-- **Power Query**
 - **DAX (Data Analysis Expressions)**
-- **Data Visualization & Dashboard Design**
+- **Power Query (M)**
+- **Data Modeling & Relationships**
+- **Excel / CSV / Structured datasets**
 
 ---
 
-## 📁 Project Files
-- `Data Jobs Dashboard.pbix` — Power BI dashboard file
+## 📂 Repository Structure
+
+Each dashboard folder typically contains:
+
+- 📁 **`.pbix` file**
+- 🧾 **Project-specific README** explaining:
+  - Business objective
+  - Dataset overview
+  - KPIs & metrics
+  - Insights & findings
+  - Dashboard interactivity
 
 ---
 
-## ▶️ How to Use
-1. Download the `.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
-3. Use the slicers and visuals to explore the data job market insights.
+## ⭐ Featured Projects
 
----
-
-## 🧠 Skills Demonstrated
-- Data cleaning and transformation  
-- Data analysis and interpretation  
-- Dashboard design and storytelling  
-- KPI creation and performance metrics  
-- Business-focused insights   
-
----
-## 📊 Dashboard Overview
-This Power BI dashboard provides an interactive analysis of the **global data jobs market**, combining **job demand, salary insights, employment characteristics, and geographic distribution** into a single, easy-to-explore report.
-
-The dashboard is designed to support **data-driven career and market insights**, allowing users to explore:
-- Overall job availability and trends  
-- Compensation benchmarks across data roles  
-- Work flexibility and benefits  
-- Job platforms and employment types  
-- Global distribution of data-related opportunities  
-
-Interactive filters and drill-through functionality enable deeper exploration by job title and other dimensions.
-
----
-
-## 📊 Dashboard Pages Description
-
-### 📄 Page 1: Data Jobs Market Overview
-This page provides a comprehensive overview of the **data jobs market in 2024**, focusing on job availability, salary benchmarks, and overall market trends.
-
-Key visuals and insights include:
-- **Top KPIs** displaying total job count, salary star rating, median yearly salary, and median hourly salary  
-- **Job trend analysis** showing how data job postings changed throughout 2024  
-- **Hourly vs. yearly salary comparison** across major data roles  
-- **Highest-paying data jobs** ranked by job count  
-- **Detailed table** breaking down job count, yearly and hourly salaries, and job trends by job title  
-
-The page is fully interactive, allowing users to filter by job title and drill through for deeper analysis.
+### 📊 Data Jobs Dashboard (V1 – Foundational)
+A foundational analytical dashboard focused on:
+- Job roles in the data industry
+- Core skill demand
+- Basic salary exploration
+- Introductory KPI design
 
 ![Dashboard Page 1](/images/proj1_page1.png)
+> Focus: foundational Power BI concepts, basic DAX, and clean reporting.
+
 ---
 
-### 📄 Page 2: Salary & Job Characteristics Analysis
-This page focuses on **salary distribution, job benefits, work flexibility, and global job availability** within the data job market.
+### 📊 Data Jobs Dashboard (V2 – Advanced & Interactive)
+An enhanced and more advanced version of the original dashboard, featuring:
+- Improved KPI design and layout
+- Advanced slicers and interactivity
+- Deeper skill and salary analysis
+- Stronger business storytelling
+![Dashboard Page 1](/images/proj2_page1.png)
+> Focus: advanced DAX usage, dashboard UX, and insight-driven analysis.
 
-Key visuals and insights include:
-- **Gauge visuals** showing **minimum, median, average, and maximum** values for both **yearly and hourly salaries**  
-- **Donut charts** illustrating:
-  - Percentage of **work-from-home (WFH)** opportunities  
-  - Jobs with **no degree requirement mentioned**  
-  - Jobs offering **health insurance benefits**  
-- **Global map visualization** displaying the worldwide distribution of data job opportunities  
-- **Stacked bar chart** highlighting which **job platforms** list the highest number of data-related roles  
-- **Treemap chart** representing the distribution of **employment types**, including full-time, part-time, contract, and internship  
+---
 
-This page complements the first by combining **compensation insights** with **job flexibility, benefits, and market accessibility**.
+*(More dashboards are added continuously as my skills grow.)*
 
 
-![Dashboard Page 1](/images/proj1_page2.png)
 
 
